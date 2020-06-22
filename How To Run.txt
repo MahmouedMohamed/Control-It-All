@@ -1,0 +1,5 @@
+developer:	mvnw spring-boot:run
+
+	get jar ready -> mvnw clean package
+
+else:	java -jar target/ogive-0.0.1-SNAPSHOT.jar
